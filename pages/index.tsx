@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-import utilStyles from "../styles/utils.module.css";
+import utilStyles from "../styles/utils.module.scss";
 import { Layout } from "../components/layout";
 import { getSortedPostData } from "../lib/posts";
 import { Date } from "../components/date";
